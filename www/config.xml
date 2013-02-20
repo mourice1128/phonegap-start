@@ -3,10 +3,10 @@
         xmlns:gap = "http://phonegap.com/ns/1.0"
         id        = "com.phonegap.hello-world"
         version   = "2.2.0">
-    <name>Josh's Cool Mobile App</name>
+    <name>Lougle</name>
 
     <description>
-        This is my cool android app.
+        The best alternative to Google.
     </description>
 
     <author href="http://phonegap.com" email="support@phonegap.com">
